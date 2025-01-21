@@ -2,6 +2,28 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-21)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
