@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/strided-dtypes": "^0.3.0",
-    "@stdlib/utils-object-inverse": "^0.2.2"
+    "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main",
+    "@stdlib/strided-dtypes": "^0.3.0"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
