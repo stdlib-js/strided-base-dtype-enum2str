@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main",
-    "@stdlib/strided-dtypes": "^0.3.0"
+    "@stdlib/strided-dtypes": "^0.3.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-string": "^0.2.2",
