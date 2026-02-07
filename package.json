@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-base-dtype-enum2str",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return the data type string associated with a strided array data type enumeration constant.",
   "license": "Apache-2.0",
   "author": {
@@ -37,12 +37,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/object-inverse": "github:stdlib-js/object-inverse#main",
+    "@stdlib/object-inverse": "^0.1.0",
     "@stdlib/strided-dtypes": "^0.3.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/strided-base-dtype-str2enum": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.3",
+    "@stdlib/strided-base-dtype-str2enum": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
