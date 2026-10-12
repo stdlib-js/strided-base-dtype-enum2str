@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-10-12)
+
+<section class="features">
+
+### Features
+
+-   [`b594a74`](https://github.com/stdlib-js/stdlib/commit/b594a749b76d0b4fd62eea92f6f33689ea24eb5c) - add float16 support to `strided/base/*` [(#15909)](https://github.com/stdlib-js/stdlib/pull/15909)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b594a74`](https://github.com/stdlib-js/stdlib/commit/b594a749b76d0b4fd62eea92f6f33689ea24eb5c) - **feat:** add float16 support to `strided/base/*` [(#15909)](https://github.com/stdlib-js/stdlib/pull/15909) _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
